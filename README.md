@@ -85,5 +85,5 @@ Ingin menambahkan tips keamanan lainnya? Silakan berkontribusi!
 ---
 
 <div align="center">
-Made with ❤️ by [Tirta Sadewa]([https://github.com/USERNAME](https://github.com/tirtasadewa285)
+Made with ❤️ by [Tirta Sadewa](https://github.com/tirtasadewa285)
 </div>
